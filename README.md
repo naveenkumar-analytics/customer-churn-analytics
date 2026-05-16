@@ -3,22 +3,22 @@ data analytics project showcasing customer-churn-analytics using Python, Sql, Po
 
 📊 Power BI End-to-End Churn Analysis Portfolio Project
 Power BI + SQL + Machine Learning
-📌 Overview
+ ##  Overview
 
 This project is an end-to-end Customer Churn Analysis solution built using SQL, Python (Machine Learning), and Power BI.
 The goal is to analyze customer behavior, identify churn patterns, and build an interactive dashboard that helps businesses take data-driven retention decisions.
 
-🎯 Objective
+## Objective
 Understand why customers are leaving (churning)
 Identify key factors affecting churn
 Build a predictive model to classify churned customers
 Create an interactive Power BI dashboard for business insights
-🛠️ Tech Stack
+## Tech Stack
 SQL – Data extraction, cleaning, and transformation
 Python (Pandas, Scikit-learn) – Machine Learning model for churn prediction
 Power BI – Interactive dashboard & visualization
 Excel/CSV – Raw dataset handling
-📊 Project Workflow
+## Project Workflow
 1. Data Collection
 Customer demographic data
 Service usage data
