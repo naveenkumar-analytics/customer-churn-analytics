@@ -40,3 +40,9 @@ Churn overview KPIs
 Customer segmentation
 Revenue impact analysis
 Interactive filters and slicers
+
+## Key Insights
+Customers with shorter tenure are more likely to churn
+Higher monthly charges increase churn probability
+Certain contract types significantly reduce churn risk
+Lack of support services increases churn rate
