@@ -1,5 +1,4 @@
 # customer-churn-analytics
-data analytics project showcasing customer-churn-analytics using Python, Sql, Power Bi and  Machine Learning 
 
 📊 Power BI End-to-End Churn Analysis Portfolio Project
 Power BI + SQL + Machine Learning
